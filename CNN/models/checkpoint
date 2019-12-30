@@ -1,0 +1,2 @@
+model_checkpoint_path: "emotion_model-10000"
+all_model_checkpoint_paths: "emotion_model-10000"
